@@ -1,5 +1,3 @@
-import { kosarEsemeny } from "./kosar.js";
-
 
 const termekek = [
     {
@@ -57,7 +55,6 @@ const termekek = [
     titleCreate();
     termekDivCreate();
     feltolt("ruha")
-    kosarEsemeny();
   });
   
   function titleCreate() {
