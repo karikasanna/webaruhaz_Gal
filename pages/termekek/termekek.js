@@ -10,7 +10,7 @@ const termekek = [
   {
     id: 1,
     nev: "Sulipulcsi",
-    kep: "polo.jpeg",
+    kep: "pulcsi.png",
     ertekeles: 5,
     kategoria: "ruha",
     ar: 5000,
@@ -18,7 +18,7 @@ const termekek = [
   {
     id: 2,
     nev: "Sulitoll",
-    kep: "polo.jpeg",
+    kep: "toll.png",
     ertekeles: 5,
     kategoria: "írószer",
     ar: 500,
@@ -26,7 +26,7 @@ const termekek = [
   {
     id: 3,
     nev: "Sulifüzet",
-    kep: "polo.jpeg",
+    kep: "fuzet.png",
     ertekeles: 5,
     kategoria: "írószer",
     ar: 1000,
@@ -34,7 +34,7 @@ const termekek = [
   {
     id: 4,
     nev: "Sulibögre",
-    kep: "polo.jpeg",
+    kep: "bogre.png",
     ertekeles: 5,
     kategoria: "egyéb",
     ar: 2000,
@@ -42,7 +42,7 @@ const termekek = [
   {
     id: 5,
     nev: "Sulikulacs",
-    kep: "polo.jpeg",
+    kep: "kulacs.png",
     ertekeles: 5,
     kategoria: "egyéb",
     ar: 2500,

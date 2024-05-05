@@ -1,55 +1,53 @@
-
-
 const termekek = [
-    {
-      id: 0,
-      nev: "Sulipóló",
-      kep: "polo.jpeg",
-      ertekeles: 5,
-      kategoria: "ruha",
-      ar: 3000,
-    },
-    {
-      id: 1,
-      nev: "Sulipulcsi",
-      kep: "polo.jpeg",
-      ertekeles: 5,
-      kategoria: "ruha",
-      ar: 5000,
-    },
-    {
-      id: 2,
-      nev: "Sulitoll",
-      kep: "polo.jpeg",
-      ertekeles: 5,
-      kategoria: "írószer",
-      ar: 500,
-    },
-    {
-      id: 3,
-      nev: "Sulifüzet",
-      kep: "polo.jpeg",
-      ertekeles: 5,
-      kategoria: "írószer",
-      ar: 1000,
-    },
-    {
-      id: 4,
-      nev: "Sulibögre",
-      kep: "polo.jpeg",
-      ertekeles: 5,
-      kategoria: "egyéb",
-      ar: 2000,
-    },
-    {
-      id: 5,
-      nev: "Sulikulacs",
-      kep: "polo.jpeg",
-      ertekeles: 5,
-      kategoria: "egyéb",
-      ar: 2500,
-    },
-  ];
+  {
+    id: 0,
+    nev: "Sulipóló",
+    kep: "polo.jpeg",
+    ertekeles: 5,
+    kategoria: "ruha",
+    ar: 3000,
+  },
+  {
+    id: 1,
+    nev: "Sulipulcsi",
+    kep: "pulcsi.png",
+    ertekeles: 5,
+    kategoria: "ruha",
+    ar: 5000,
+  },
+  {
+    id: 2,
+    nev: "Sulitoll",
+    kep: "toll.png",
+    ertekeles: 5,
+    kategoria: "írószer",
+    ar: 500,
+  },
+  {
+    id: 3,
+    nev: "Sulifüzet",
+    kep: "fuzet.png",
+    ertekeles: 5,
+    kategoria: "írószer",
+    ar: 1000,
+  },
+  {
+    id: 4,
+    nev: "Sulibögre",
+    kep: "bogre.png",
+    ertekeles: 5,
+    kategoria: "egyéb",
+    ar: 2000,
+  },
+  {
+    id: 5,
+    nev: "Sulikulacs",
+    kep: "kulacs.png",
+    ertekeles: 5,
+    kategoria: "egyéb",
+    ar: 2500,
+  },
+];
 
 
   
