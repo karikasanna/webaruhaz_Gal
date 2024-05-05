@@ -2,7 +2,7 @@ const termekek = [
   {
     id: 0,
     nev: "Sulipóló",
-    kep: "polo.jpeg",
+    kep: "polo.png",
     ertekeles: 5,
     kategoria: "ruha",
     ar: 3000,
